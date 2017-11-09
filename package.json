@@ -1,0 +1,31 @@
+{
+  "name": "px-to-rem-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader auto px to rem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neverland/px-to-rem-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "px2rem",
+    "px",
+    "to",
+    "rem",
+    "rem"
+  ],
+  "author": "enix@foxmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neverland/px-to-rem-loader/issues"
+  },
+  "homepage": "https://github.com/Neverland/px-to-rem-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "rem-core": "0.0.9"
+  }
+}
