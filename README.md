@@ -59,27 +59,3 @@ body {
     background-size: 0.5557rem 0.5557rem;
 }
 ```
-
-## changelog
-
-<table>
-    <thead>
-        <tr>
-            <th>版本</th>
-            <th>类型</th>
-            <th>说明</th>
-        </tr>
-    </thead>
-    <tbody> 
-        <tr>
-            <td>v0.0.8</td>
-            <td>Feature</td>
-            <td>添加原始值</td>
-        </tr>
-        <tr>
-            <td>v0.0.7</td>
-            <td>Bugfixed</td>
-            <td>全局选择器问题</td>
-        </tr>
-    </tbody>
-</table>
