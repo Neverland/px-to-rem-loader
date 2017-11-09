@@ -1,6 +1,6 @@
 {
   "name": "px-to-rem-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A webpack loader auto px to rem.",
   "main": "index.js",
   "scripts": {
